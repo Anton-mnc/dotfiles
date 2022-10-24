@@ -55,3 +55,5 @@
 [user]
 	email = antoine.mgy.mnc@gmail.com
 	name = antoine menguy manceau
+[credential]
+	helper = store
